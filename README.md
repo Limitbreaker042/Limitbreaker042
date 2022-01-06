@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Limitbreaker042
-- 👀 I’m interested in @oosdao
+- 👀 I’m interested in @oosdao.org
 
 <!---
 Limitbreaker042/Limitbreaker042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
